@@ -1,0 +1,15 @@
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\bin\Debug\net7.0\Codebase.MarsRover.Console.exe
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\bin\Debug\net7.0\Codebase.MarsRover.Console.deps.json
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\bin\Debug\net7.0\Codebase.MarsRover.Console.runtimeconfig.json
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\bin\Debug\net7.0\Codebase.MarsRover.Console.dll
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\bin\Debug\net7.0\Codebase.MarsRover.Console.pdb
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\Codebase.MarsRover.Console.csproj.AssemblyReference.cache
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\Codebase.MarsRover.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\Codebase.MarsRover.Console.AssemblyInfoInputs.cache
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\Codebase.MarsRover.Console.AssemblyInfo.cs
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\Codebase.MarsRover.Console.csproj.CoreCompileInputs.cache
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\Codebase.MarsRover.Console.dll
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\refint\Codebase.MarsRover.Console.dll
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\Codebase.MarsRover.Console.pdb
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\Codebase.MarsRover.Console.genruntimeconfig.cache
+C:\Users\KadirCimen\Desktop\Proje\CodebaseMarsRover\Codebase.MarsRover.Console\obj\Debug\net7.0\ref\Codebase.MarsRover.Console.dll
